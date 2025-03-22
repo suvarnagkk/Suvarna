@@ -1,3 +1,3 @@
 # Suvarna
-My first code repository
+My first code repository.
 Author:Suvarna Gokak
